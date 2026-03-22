@@ -13,6 +13,8 @@ public class RahulShettyAceademy {
 		driver.get("https://rahulshettyacademy.com/client/#/auth/login");
 		
 		System.out.println("Url opened");
+		System.out.println("Git Repo");
+
 		driver.quit();
 		
 		
