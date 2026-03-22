@@ -1,0 +1,8 @@
+Automation\pageobjects\CheckoutPage.class
+AbstractComponenents\AbstractComponent.class
+Automation\pageobjects\CartPage.class
+Automation\pageobjects\LandingPage.class
+Automation\pageobjects\OrderPage.class
+Automation\pageobjects\ProductCatalogue.class
+Automation\pageobjects\ConfirmationPage.class
+Automation\resources\ExtentReporterNG.class
